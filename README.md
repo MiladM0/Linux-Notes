@@ -1,4 +1,4 @@
-# 📚 My Knowledge Base (Linux)
+# <img width="35" height="30" alt="ReadingVibesGIF" src="https://github.com/user-attachments/assets/7e42b53a-a32c-4090-9fa7-06b8ce11c18a" /> My Knowledge Base (Linux)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MiladM0/My-Notes)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MiladM0/My-Notes)
 
