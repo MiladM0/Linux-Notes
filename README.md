@@ -1,92 +1,14 @@
-# 🐧 Linux Essentials
+# 📚 My Knowledge Base (Linux)
+![GitHub last commit](https://img.shields.io/github/last-commit/MiladM0/My-Notes)
+![GitHub repo size](https://img.shields.io/github/repo-size/MiladM0/My-Notes)
 
----
+Welcome to my personal notes repository.
 
-## 🖥️ Operating System (OS)
+## Topics
 
-An **Operating System (OS)** acts as an interface between the **user** and the **computer hardware**.
+- ### Linux <img width="17" height="17" alt="TuxLinuxGIF" src="https://github.com/user-attachments/assets/baa2136c-8512-49fa-98d6-fc3c68e2a1b3" /> : [Essentials](LinuxEssentials) | [LPIC1](Linux/LPIC1.md) | [LPIC2](Linux/LPIC2.md) | [LPIC3](Linux/LPIC3.md)
 
-The user interacts with the OS, while the kernel communicates directly with hardware components such as:
+## Progress
 
-* 🧠 Memory (RAM)
-* 💾 Disk / SSD
-* 🌐 Network Interface
-* ⚡ CPU
-
-The OS manages and allocates these resources to programs.
-
----
-
-## ⚙️ Kernel
-
-> [!NOTE]
-> The kernel is the core software of an operating system.
-
-### Responsibilities
-
-✅ Interfacing with hardware devices
-
-✅ Allocating memory to programs
-
-✅ Allocating CPU time to processes
-
-✅ Managing system resources
-
-✅ Enabling programs to interact with each other
-
----
-
-## 🐧 Linux
-
-> [!IMPORTANT]
-> Linux is a **kernel**, not a complete operating system.
-
-A Linux distribution (distro) typically includes:
-
-* Linux Kernel
-* System Utilities
-* Package Manager
-* Additional Software
-
-### Popular Distros
-
-| Distribution | Type            |
-| ------------ | --------------- |
-| Ubuntu       | Fixed Release   |
-| Debian       | Fixed Release   |
-| Fedora       | Fixed Release   |
-| Arch Linux   | Rolling Release |
-
----
-
-## 🔄 Release Cycles
-
-### Rolling Release
-
-A rolling-release distribution receives continuous updates and usually has no major version numbers.
-
-**Example:** Arch Linux
-
-> [!TIP]
-> You always get the newest packages.
-
----
-
-### Fixed Release
-
-A fixed-release distribution publishes versions on a schedule.
-
-**Examples:** Ubuntu, Debian
-
-> [!TIP]
-> More stability and predictability.
-
----
-
-## 📌 Key Takeaways
-
-* Linux is a **kernel**
-* A distro = kernel + tools + software
-* Rolling releases receive continuous updates
-* Fixed releases prioritize stability
-* Longer release cycles are generally preferred by businesses
+- [ ] Essentials
+      
