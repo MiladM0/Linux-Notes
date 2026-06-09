@@ -3,7 +3,7 @@
 > [!NOTE]
 > Software is considered intellectual property and is protected by copyright laws.
 
-
+---
 
 ## 🏷️ What Is a Software License?
 
@@ -247,12 +247,5 @@ CentOS was built from Red Hat Enterprise Linux source packages and provided a co
 * GPL is restrictive (copyleft), while MIT and BSD are more permissive.
 
 ---
-
-## 🚧 Chapter Status
-
-> [!NOTE]
-> Chapter 2 is not finished yet. More topics will be added in future study sessions.
-
-
 
 
