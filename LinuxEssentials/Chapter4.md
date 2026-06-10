@@ -585,6 +585,217 @@ A **Package Management System** automates:
 > Modern Fedora and RHEL systems typically use **DNF**, which largely replaces YUM.
 
 ---
+# 📝 Review Questions & Notes
+---
+## 1️⃣ What Is a Programming Library?
+
+A **programming library** is a collection of pre-written code that developers can use to perform common tasks without writing everything from scratch.
+
+Libraries typically contain:
+
+* Functions
+* Classes
+* Procedures
+* Utilities
+* Reusable components
+
+### 🎯 Benefits
+
+✅ Saves development time
+
+✅ Reduces duplicated code
+
+✅ Improves maintainability
+
+✅ Provides tested solutions for common problems
+
+---
+
+### 📚 Examples
+
+#### Standard Libraries
+
+Built into a programming language or provided as part of its ecosystem.
+
+Examples:
+
+* C Standard Library
+* Python Standard Library
+
+---
+
+#### External Libraries
+
+Installed separately to provide additional functionality.
+
+Examples:
+
+* `requests` (Python)
+* React (JavaScript)
+
+---
+
+#### Shared Libraries
+
+Reusable binary libraries used by multiple programs.
+
+| Operating System | Extension |
+| ---------------- | --------- |
+| Linux            | `.so`     |
+| Windows          | `.dll`    |
+
+---
+
+## 2️⃣ Popular Linux File Managers
+
+File managers help users navigate and manage files graphically or through the terminal.
+
+| File Manager            | Desktop Environment | Notes                      |
+| ----------------------- | ------------------- | -------------------------- |
+| Nautilus (GNOME Files)  | GNOME               | Default GNOME file manager |
+| Dolphin                 | KDE Plasma          | Powerful and feature-rich  |
+| Thunar                  | Xfce                | Lightweight and fast       |
+| PCManFM                 | LXDE / LXQt         | Minimal resource usage     |
+| Midnight Commander (mc) | Terminal            | Text-based file manager    |
+| Ranger                  | Terminal            | Vim-like navigation        |
+
+> [!TIP]
+> Dolphin and Nautilus are among the most commonly used graphical file managers on Linux systems.
+
+---
+
+## 3️⃣ OpenDocument Format (ODF)
+
+**OpenDocument Format (ODF)** is an open, XML-based document format used for office productivity software.
+
+### Characteristics
+
+✅ Open Standard
+
+✅ XML-Based
+
+✅ Vendor Independent
+
+✅ Maintained by OASIS
+
+---
+
+### Common Applications
+
+* LibreOffice
+* Apache OpenOffice
+* OnlyOffice
+* Other office suites
+
+---
+
+### Common File Extensions
+
+| Document Type | Extension |
+| ------------- | --------- |
+| Text Document | `.odt`    |
+| Spreadsheet   | `.ods`    |
+| Presentation  | `.odp`    |
+
+> [!NOTE]
+> ODF is designed to ensure long-term accessibility and interoperability between office applications.
+
+---
+
+## 4️⃣ Request for Comments (RFC)
+
+RFC stands for:
+
+```text
+Request For Comments
+```
+
+RFCs are technical publications that define standards, protocols, and procedures used on the Internet.
+
+---
+
+### Published By
+
+```text
+IETF
+(Internet Engineering Task Force)
+```
+
+---
+
+### RFC Topics
+
+Examples include:
+
+* HTTP
+* DNS
+* SMTP
+* TCP/IP
+* IPv4 / IPv6
+
+---
+
+### RFC Lifecycle
+
+```text
+Draft
+   ↓
+Review
+   ↓
+RFC Publication
+   ↓
+Potential Internet Standard
+```
+
+> [!IMPORTANT]
+> Many technologies used every day on the Internet are defined by RFC documents.
+
+---
+
+## 5️⃣ What Programming Language Does Windows Use?
+
+The Windows operating system is primarily written in:
+
+* C
+* C++
+
+---
+
+### Windows APIs
+
+Most Windows APIs are implemented using:
+
+* C
+* C++
+
+---
+
+### Additional Languages Used
+
+Certain Windows components may also use:
+
+* C#
+* Assembly
+* .NET Technologies
+* Other specialized languages
+
+---
+
+### User Applications
+
+Many Windows desktop applications are developed using:
+
+* C++
+* C#
+* .NET
+
+Examples:
+
+* Microsoft Visual Studio
+* Microsoft Office Components
+* Many third-party desktop applications
+
+---
 
 # 📌 Key Takeaways
 
@@ -596,5 +807,11 @@ A **Package Management System** automates:
 * Linux software is typically installed through package managers and repositories.
 * APT is common on Debian systems, while YUM/DNF are common on Red Hat systems.
 * Official repositories are generally safer than unofficial repositories.
+* Programming libraries provide reusable code components.
+* Linux offers both graphical and terminal-based file managers.
+* ODF is an open standard for office documents.
+* RFCs define many Internet standards and protocols.
+* Windows is primarily written in C and C++, with some components using C#, Assembly, and .NET technologies.
+
 
 ---
