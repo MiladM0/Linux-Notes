@@ -1,5 +1,5 @@
 
-# 📖 Chapter 2 : Understanding Software Licensing & Open Source
+# 📖 Chapter 02 : Understanding Software Licensing & Open Source
 > [!NOTE]
 > Software is considered intellectual property and is protected by copyright laws.
 
